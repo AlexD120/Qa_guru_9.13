@@ -7,5 +7,5 @@ def tet_skipped():
 
 
 @pytest.mark.skip()
-def test_skipped():
+def test_skipped2():
     pass
